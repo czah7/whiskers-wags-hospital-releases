@@ -1,8 +1,8 @@
 {
-  "versionCode": 7,
-  "versionName": "0.0.7",
-  "apkUrl": "https://github.com/czah7/whiskers-wags-hospital-releases/releases/download/v0.0.7/WhiskersAndWagsHospital-0.0.7.apk",
-  "sha256": "e18fdc80d8c7afa485bcb687a028e684f2913d33514a05c696e16271b4608aab",
+  "versionCode": 8,
+  "versionName": "0.0.8",
+  "apkUrl": "https://github.com/czah7/whiskers-wags-hospital-releases/releases/download/v0.0.8/WhiskersAndWagsHospital-0.0.8.apk",
+  "sha256": "7df22427ece51c97bb6a72a0f4cd546d25a271f285cb049a66c91b681a1b00a6",
   "minimumAndroidSdk": 24,
-  "publishedAt": "2026-09-09T03:53:32.4801661Z"
+  "publishedAt": "2026-09-09T19:58:59.7955341Z"
 }
